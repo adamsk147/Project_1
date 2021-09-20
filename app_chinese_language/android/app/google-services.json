@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589515965638",
+    "project_id": "appchineselanguage",
+    "storage_bucket": "appchineselanguage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589515965638:android:b04a6301ee424b38ae43c7",
+        "android_client_info": {
+          "package_name": "com.example.app_chinese_language"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589515965638-n556l12b1va986ikda0hq2cpbmdf58p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6IxAX3WekmUMNM5wGyjJziTQvBc-p_7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589515965638-n556l12b1va986ikda0hq2cpbmdf58p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
